@@ -4,7 +4,7 @@
 
 不过需要提前说明：这些讲解内容并不是从最基础的概念开始写起的。它们更侧重于项目过程、代码逻辑、运行结果和关键知识点的说明。如果缺少相关基础知识，阅读时可能会觉得某些地方跳得比较快。
 
-例如，`D:\aiproj\代码讲解记录\11-v5-prediction-evaluation.md` 中有这样一段流程说明：
+例如，`wul012/aiproj/代码讲解记录/11-v5-prediction-evaluation.md` 中有这样一段流程说明：
 
 ```text
 checkpoint + data
