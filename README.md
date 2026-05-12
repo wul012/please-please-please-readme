@@ -6,7 +6,7 @@
 
 ## Node 示例
 
-例如，`wul012/nodeproj/73-operation-approval-execution-gate-archive-v69.md` 中讲到 v69 的执行门禁归档路由入口，以及为什么创建归档时要重新走完整证据链。
+例如，`wul012/nodeproj/代码讲解记录/73-operation-approval-execution-gate-archive-v69.md` 中讲到 v69 的执行门禁归档路由入口，以及为什么创建归档时要重新走完整证据链。
 
 v69 新增了三个入口：
 
