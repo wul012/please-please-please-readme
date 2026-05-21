@@ -21,6 +21,8 @@ Practice task
 
 The goal is to improve technical English while also understanding real computer science concepts from my own repositories.
 
+For a quick overview of all lesson files and their six practice concepts, see [`INDEX.md`](INDEX.md).
+
 ---
 
 # Lesson 1: Control Plane
