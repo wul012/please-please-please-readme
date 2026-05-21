@@ -29,6 +29,9 @@ Use this file when you want to quickly choose what to review.
 | [`lessons-43-48.md`](lessons-43-48.md) | 43-48 | Safe connection workflows, receipt chains, operator review, and operational gates | sandbox connection; receipt chain; operator packet; quality gate; scorecard; runbook |
 | [`lessons-49-54.md`](lessons-49-54.md) | 49-54 | Compatibility, boundary checks, historical review, echo markers, and readiness packets | compatibility; boundary check; historical review; echo marker; archived evidence; readiness packet |
 | [`lessons-55-60.md`](lessons-55-60.md) | 55-60 | Controlled workflows, evidence tracing, regression tests, promotion gates, and stability trends | controlled workflow; evidence trace; regression test; promotion gate; boundary evidence; stability trend |
+| [`lessons-61-66.md`](lessons-61-66.md) | 61-66 | Layering, event-driven design, transactions, lookup speed, caching, and data formats | layered architecture; event-driven design; transaction boundary; index; cache; serialization |
+| [`lessons-67-72.md`](lessons-67-72.md) | 67-72 | Observability, fault tolerance, flow control, concurrency, queues, and model evaluation | observability; fault tolerance; rate limiting; thread pool; message queue; model evaluation |
+| [`lessons-73-78.md`](lessons-73-78.md) | 73-78 | Everyday engineering tools, configuration, errors, documentation, and technical debt | command-line interface; configuration; environment variable; error taxonomy; documentation index; technical debt |
 
 ---
 
@@ -36,10 +39,10 @@ Use this file when you want to quickly choose what to review.
 
 | Project | Best lesson files |
 | --- | --- |
-| `nodeproj` | `README.md`, `lessons-07-12.md`, `lessons-25-30.md`, `lessons-31-36.md`, `lessons-37-42.md`, `lessons-43-48.md`, `lessons-49-54.md`, `lessons-55-60.md` |
-| `mini_kv` | `README.md`, `lessons-13-18.md`, `lessons-19-24.md`, `lessons-25-30.md`, `lessons-37-42.md`, `lessons-43-48.md`, `lessons-49-54.md`, `lessons-55-60.md` |
-| `javaproject` | `README.md`, `lessons-07-12.md`, `lessons-25-30.md`, `lessons-31-36.md`, `lessons-37-42.md`, `lessons-43-48.md`, `lessons-49-54.md`, `lessons-55-60.md` |
-| `aiproj` | `README.md`, `lessons-13-18.md`, `lessons-25-30.md`, `lessons-31-36.md`, `lessons-37-42.md`, `lessons-43-48.md`, `lessons-49-54.md`, `lessons-55-60.md` |
+| `nodeproj` | `README.md`, `lessons-07-12.md`, `lessons-25-30.md`, `lessons-31-36.md`, `lessons-37-42.md`, `lessons-43-48.md`, `lessons-49-54.md`, `lessons-55-60.md`, `lessons-61-66.md`, `lessons-67-72.md`, `lessons-73-78.md` |
+| `mini_kv` | `README.md`, `lessons-13-18.md`, `lessons-19-24.md`, `lessons-25-30.md`, `lessons-37-42.md`, `lessons-43-48.md`, `lessons-49-54.md`, `lessons-55-60.md`, `lessons-61-66.md`, `lessons-67-72.md`, `lessons-73-78.md` |
+| `javaproject` | `README.md`, `lessons-07-12.md`, `lessons-25-30.md`, `lessons-31-36.md`, `lessons-37-42.md`, `lessons-43-48.md`, `lessons-49-54.md`, `lessons-55-60.md`, `lessons-61-66.md`, `lessons-67-72.md`, `lessons-73-78.md` |
+| `aiproj` | `README.md`, `lessons-13-18.md`, `lessons-25-30.md`, `lessons-31-36.md`, `lessons-37-42.md`, `lessons-43-48.md`, `lessons-49-54.md`, `lessons-55-60.md`, `lessons-61-66.md`, `lessons-67-72.md`, `lessons-73-78.md` |
 
 ---
 
@@ -71,6 +74,12 @@ lessons-43-48.md
 lessons-49-54.md
     ->
 lessons-55-60.md
+    ->
+lessons-61-66.md
+    ->
+lessons-67-72.md
+    ->
+lessons-73-78.md
 ```
 
 If you want to practice interview-style English:
@@ -87,6 +96,10 @@ sandbox connection
 receipt chain
 scorecard
 stability trend
+layered architecture
+observability
+model evaluation
+technical debt
 ```
 
 ---
